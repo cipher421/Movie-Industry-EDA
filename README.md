@@ -1,7 +1,7 @@
 # Movie Industry Exploratory Data Analysis (EDA)
 
 ## 📌 Overview
-An exploratory data analysis of the **TMDB 5000 Movies Dataset** to understand what drives movie success—comparing **financial success (revenue)** against **critical/audience success (rating)**.
+An exploratory data analysis of the **TMDB 5000 Movies Dataset** to understand what drives movie success comparing **financial success (revenue)** against **critical/audience success (rating)**.
 
 The analysis investigates whether high-rated movies also generate high revenue, and identifies the factors most strongly associated with box office performance.
 
